@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mehedihasansaim27@gmail.com**
 
-- 📫 Website: **[mehedihasansaim27@gmail.com](https://sites.google.com/diu.edu.bd/saim/home)**
+- 📫 Website: **[mehedi_hasan_saim](https://sites.google.com/diu.edu.bd/saim/home)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
