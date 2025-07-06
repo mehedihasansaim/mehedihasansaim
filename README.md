@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Developing**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I am also actively learning **JavaScript** to enhance my front-end and back-end development skills.
 
 - 📫 How to reach me **mehedihasansaim27@gmail.com**
 
